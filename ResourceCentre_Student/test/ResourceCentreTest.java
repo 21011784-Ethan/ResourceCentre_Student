@@ -203,6 +203,7 @@ public class ResourceCentreTest {
 		assertFalse("Test if non-existing camcorder CC0013 is returned - false?", isReturned);
 		
 	}
+	
 	@Test
 	public void testDoReturnChromebook() {
 		//boundary
